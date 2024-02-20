@@ -1,0 +1,6 @@
+Atividade em sala de aula
+
+Fazer uma api que permita fazer upload e download de curriculos em pdf, doc ou docx.
+ - Utilize o diretório padrão de arquivos estáticos wwwroot;
+ - Aplique validação de tamanho(max 5MB) de arquivos e extensão (pdf, doc ou docs).
+docx*
